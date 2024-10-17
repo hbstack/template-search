@@ -1,0 +1,11 @@
+baseURL: https://theme-search.hbstack.dev/
+title: HB Search Theme
+copyright: Copyright © 2022-{year} [HB Framework](https://hbstack.dev/). All Rights Reserved.
+
+build:
+  buildStats:
+    enable: true
+
+disableKinds:
+  - taxonomy
+  - term

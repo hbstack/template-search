@@ -1,0 +1,12 @@
+imports:
+  - path: github.com/hbstack/theme-search
+  # headers
+  - path: github.com/hbstack/header/modules/socials
+  - path: github.com/hbstack/header/modules/language-picker
+  - path: github.com/hbstack/header/modules/theme-toggle
+  # footers
+  - path: github.com/hbstack/footer/modules/socials
+  # seo
+  - path: github.com/hugomods/seo/modules/favicons
+  # others
+  - path: github.com/hbstack/back-to-top

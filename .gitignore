@@ -1,0 +1,7 @@
+public/
+resources/
+.hugo_build.lock
+node_modules/
+jsconfig.json
+hugo_stats.json
+.env

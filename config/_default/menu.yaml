@@ -1,0 +1,16 @@
+main:
+  - url: https://hugomods.com/
+    name: HugoMods
+    weight: 1
+    params:
+      icon:
+        vendor: simple
+        name: hugo
+
+  - url: https://hbstack.dev/
+    name: HB Framework
+    weight: 2
+    params:
+      icon:
+        vendor: simple
+        name: bootstrap

@@ -1,0 +1,16 @@
+{
+  "name": "hb-mod-template-search",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hbstack/template-search.git"
+  },
+  "author": "Razon Yang <razonyang@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hbstack/template-search/issues"
+  },
+  "homepage": "https://github.com/hbstack/template-search",
+  "dependencies": {
+    "@hbstack/node-packages": "^0.1.5"
+  }
+}

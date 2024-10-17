@@ -1,0 +1,58 @@
+search:
+  indices:
+    - https://hbstack.dev/search.json
+    - https://zh-hans.hbstack.dev/search.json
+    - https://zh-hant.hbstack.dev/search.json
+
+    - https://hugomods.com/search.json
+    - https://hugomods.com/zh-hans/search.json
+    - https://hugomods.com/zh-hant/search.json
+
+    - https://bootstrap.hugomods.com/search.json
+    - https://bootstrap.hugomods.com/zh-hans/search.json
+    - https://bootstrap.hugomods.com/zh-hant/search.json
+
+    - https://docker.hugomods.com/search.json
+    - https://docker.hugomods.com/zh-hans/search.json
+    - https://docker.hugomods.com/zh-hant/search.json
+
+    - https://icons.hugomods.com/search.json
+    - https://icons.hugomods.com/zh-hans/search.json
+    - https://icons.hugomods.com/zh-hant/search.json
+
+    - https://images.hugomods.com/search.json
+    - https://images.hugomods.com/zh-hans/search.json
+    - https://images.hugomods.com/zh-hant/search.json
+
+    - https://kroki.hugomods.com/search.json
+    - https://kroki.hugomods.com/zh-hans/search.json
+    - https://kroki.hugomods.com/zh-hant/search.json
+
+    - https://shortcodes.hugomods.com/search.json
+    - https://shortcodes.hugomods.com/zh-hans/search.json
+    - https://shortcodes.hugomods.com/zh-hant/search.json
+
+hb:
+  header:
+    brand: Search # default to site title.
+    socials:
+      - id: hbstack
+        name: github
+  footer:
+    socials:
+      - id: hbstack
+        name: github
+
+hugopress:
+  modules:
+    hb-custom:
+      hooks:
+        hb-search-sidebar:
+          cacheable: true
+
+seo:
+  favicons:
+    icon: images/logo.png
+    svg_icon: images/logo.svg
+    mask_icon: images/logo.svg
+    mask_icon_color: '#7952b3'
