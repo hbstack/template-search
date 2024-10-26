@@ -10,8 +10,8 @@ github.com/hbstack/header/modules/socials v0.2.2 h1:HZzeJg3Ncf0vv2QipccYYhSADVTG
 github.com/hbstack/header/modules/socials v0.2.2/go.mod h1:oy5kARWoEresORePUcmtFax0wTgCA4U7jsxExltgHC0=
 github.com/hbstack/header/modules/theme-toggle v0.5.2 h1:i04Ti4LdVFXXn9Qh7V341NNYmjvBpFwlXKfSc3Hv1Z8=
 github.com/hbstack/header/modules/theme-toggle v0.5.2/go.mod h1:5WCCiPjN34SYO4CjhMlGgxv2N3r4NnjFLN/8PgiAeEc=
-github.com/hbstack/theme-search v0.1.1 h1:m55dGNwoSGrEy+2yXawAhJjzJHb9A9sHkzJVvKTjQ3U=
-github.com/hbstack/theme-search v0.1.1/go.mod h1:KqbRmkrYrwS8jkyfO9aKeaWz6YulAvp5CVRyh9ftbcA=
+github.com/hbstack/theme-search v0.1.2 h1:P/FUfU97+QACUT1JSpSJmwG7Cxu1Ht/6UAumLVTEqCA=
+github.com/hbstack/theme-search v0.1.2/go.mod h1:KqbRmkrYrwS8jkyfO9aKeaWz6YulAvp5CVRyh9ftbcA=
 github.com/hugomods/seo/modules/favicons v0.2.2 h1:EMpCg9ef2bexFM8uz4UGCyYtM+X4x/aQWK5/0VaP1Y0=
 github.com/hugomods/seo/modules/favicons v0.2.2/go.mod h1:Bb/Se6JHet2xnWBa2vxmePR/gCBptqVB82oy0GwN/Y8=
 github.com/hugomods/simple-icons v13.14.1+incompatible h1:LUYUiXVFDwmaWuH9s1M2/WGizZ05Bj6jbMPCo/jiQho=
