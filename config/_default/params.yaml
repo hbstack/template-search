@@ -1,5 +1,6 @@
 search:
   indices:
+    # the following indices are for testing only.
     - https://hbstack.dev/search.json
     - https://zh-hans.hbstack.dev/search.json
     - https://zh-hant.hbstack.dev/search.json
