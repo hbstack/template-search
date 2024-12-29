@@ -16,3 +16,4 @@ github.com/hugomods/seo/modules/favicons v0.2.2 h1:EMpCg9ef2bexFM8uz4UGCyYtM+X4x
 github.com/hugomods/seo/modules/favicons v0.2.2/go.mod h1:Bb/Se6JHet2xnWBa2vxmePR/gCBptqVB82oy0GwN/Y8=
 github.com/hugomods/simple-icons v13.14.1+incompatible h1:LUYUiXVFDwmaWuH9s1M2/WGizZ05Bj6jbMPCo/jiQho=
 github.com/hugomods/simple-icons v13.14.1+incompatible/go.mod h1:1Lvymol7AMVY7ji/o88jMoDHHZIJ5Wc+WwNe5hjmk+U=
+github.com/hugomods/simple-icons v13.21.0+incompatible/go.mod h1:1Lvymol7AMVY7ji/o88jMoDHHZIJ5Wc+WwNe5hjmk+U=

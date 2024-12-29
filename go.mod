@@ -10,5 +10,5 @@ require (
 	github.com/hbstack/header/modules/theme-toggle v0.5.2 // indirect
 	github.com/hbstack/theme-search v0.1.2 // indirect
 	github.com/hugomods/seo/modules/favicons v0.2.2 // indirect
-	github.com/hugomods/simple-icons v13.14.1+incompatible // indirect
+	github.com/hugomods/simple-icons v13.21.0+incompatible // indirect
 )
